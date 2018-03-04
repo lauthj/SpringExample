@@ -1,0 +1,5 @@
+com\tutorialspoint\StudentJDBCTemplate.class
+com\tutorialspoint\MainApp.class
+com\tutorialspoint\StudentMapper.class
+com\tutorialspoint\Student.class
+com\tutorialspoint\StudentDAO.class
